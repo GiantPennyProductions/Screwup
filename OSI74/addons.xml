@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.osi74.kodi" name="OSI 74" version="0.0.2" provider-name="Giant Penny Productions">
+	<extension point="xbmc.addon.repository" name="OSI 74 Repository">
+		<info compressed="false">http://raw.github.com/GiantPennyProductions/OSI74/master/addons.xml</info>
+		<checksum>http://raw.github.com/GiantPennyProductions/OSI74/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/GiantPennyProductions/OSI74/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository for OSI 74 Repository</summary>
+		<description>ALL SYSTEMS GO!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
